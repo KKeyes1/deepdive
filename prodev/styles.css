@@ -1,3 +1,8 @@
-h1,h2,h3 {
-	color: red;
+#item-amount {
+	width: 100%;
+	height: 10em;
+}
+
+label.label {
+	display: block;
 }
